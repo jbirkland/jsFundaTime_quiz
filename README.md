@@ -7,6 +7,7 @@ Create a function in javascript that generates a random code for security purpos
 ### Screen Shot
 Here is the screenshot file path to my webpage. 
 click_gencode/assets/screenshot.png
+![_C__Users_jbirk_Documents_bootcamp_homework_jsFundaTime_quiz_index html](https://user-images.githubusercontent.com/87788419/135364257-6ef9b37e-7768-4439-a034-6a5f369bcf53.png)
 
 
 
